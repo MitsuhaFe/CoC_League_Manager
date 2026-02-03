@@ -1,0 +1,5 @@
+{
+  "name": "CoC League Manager",
+  "description": "A tool to manage Clash of Clans CWL rosters, assign weights to members (variables), and calculate average strength automatically.",
+  "requestFramePermissions": []
+}
